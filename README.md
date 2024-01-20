@@ -1,4 +1,6 @@
-### Hi there 👋
+#Hi there
+
+I'm Faith Henzen, a passionate software developer from Kenya.
 
 <!--
 **FaithHenzen/FaithHenzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
