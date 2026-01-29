@@ -1,35 +1,40 @@
-# Hi there — I'm Faith 👋
+# 🔥 Faith Henzen — Code, Coffee & Curiosity
 
-> Faith — Full‑stack Developer • TypeScript | React | Node.js • Open Source
+Hey — I’m Faith. I turn ideas into clean, usable code and sprinkle a little ✨ on the web.
+I ship fast, learn faster, and love building tools that make other people's lives easier.
 
-A clean, modern profile with an eye-catching blue / black / grey visual identity.
-If your browser supports inline SVG animation, GitHub will fall back to the static banner.
-
-![tech-strip](./tech-strip.svg)
-
-## About me
-- 🔭 I’m currently working on: [project-name](https://github.com/your/project) — short summary
-- 🌱 I’m learning: advanced performance tuning and systems design
-- 💬 Ask me about: React, TypeScript, testing, and developer experience
-- ⚡ Fun fact: I love landscape photography and espresso
-
-## Featured Projects
-- [project-name](https://github.com/your/project) — one-line summary of why it's cool
-- [another-project](https://github.com/your/another) — one-line summary
-
-<!-- Example project card -->
-![project-card](./project-card-example.svg)
-
-## Tech & Tools
-- Languages: TypeScript, JavaScript, Python
-- Frameworks: React, Next.js, Express
-- DevOps: Docker, GitHub Actions
-
-## Contact
-- 🔗 Website: https://yourdomain.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 👤 GitHub: [FaithHenzen](https://github.com/FaithHenzen)
+- 🚀 Quick pitch: I build delightful web apps, scalable APIs, and intuitive dev tools.
+- 🎯 Focus: reliability, developer experience, and joyful UIs
+- ⚡ Superpower: turning fuzzy ideas into working prototypes overnight
 
 ---
 
-If you want me to push everything for you, tell me how you prefer to authorize (I’ll explain the secure steps). If you want to push yourself, follow the commands below.
+## 🔧 Tech snapshot
+JavaScript · TypeScript · React · Node.js · Next.js · PostgreSQL · Docker · GitHub Actions
+
+---
+
+## 💼 Spotlight
+- Portfolio coming soon — expect neat demos, clear docs, and code that’s actually fun to read.
+- Open to: collaboration, freelance, mentorship, and interesting problems.
+
+(Prefer to pin 3–4 repos that show your best work — I can help craft the descriptions.)
+
+---
+
+## 📫 Reach out
+- Email: faithhenzen@gmail.com
+
+---
+
+## 🎲 Fun tenor
+When I’m not coding I’m probably plotting a side project, brewing coffee, or learning some new riff on design systems.
+
+Want to collaborate or just say hi? Drop a line — I read every message. 👋
+
+---
+
+<!-- Hero visuals (browser will render from assets/) -->
+<p align="center">
+  <img alt="Isometric graphic" src="./assets/graphic-animated.svg" width="640"/>
+</p>
